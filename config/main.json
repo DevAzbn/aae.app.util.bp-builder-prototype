@@ -1,0 +1,11 @@
+{
+	"app" : {
+		"uid" : "bp-builder"
+	},
+	"processes" : {
+		"main_interval" : 3000
+	},
+	"path" : {
+		"nedb" : "./data/nedb"
+	}
+}
