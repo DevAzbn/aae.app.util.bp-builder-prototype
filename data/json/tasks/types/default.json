@@ -1,0 +1,8 @@
+{
+	"scheme" : {
+		"criterion" : {
+			"input" : "criterion/input/default",
+			"output" : "criterion/output/default"
+		}
+	}
+}
